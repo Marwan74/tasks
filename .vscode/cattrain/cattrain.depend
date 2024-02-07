@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707320330 source:c:\users\marwa\desktop\fundamental\.vscode\cattrain\main.c
+	<stdio.h>
+	<stdlib.h>
+
