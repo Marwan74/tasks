@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1709722202 source:c:\users\marwa\desktop\fundamental\.vscode\quiz\main.c
+1709845423 source:c:\users\marwa\desktop\fundamental\.vscode\quiz\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+	<stdio.h>
 
